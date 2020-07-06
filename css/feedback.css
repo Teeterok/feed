@@ -378,7 +378,7 @@ text-transform: uppercase;
 
 .checkbox input:checked + .checkbox__text:before {
   
-  background: url('/img/icons/true.svg')no-repeat center,  linear-gradient(90deg, #FFB911 0%, #F14922 51.64%, #FFB911 104.36%); ;
+  background: url('../img/icons/true.svg')no-repeat center,  linear-gradient(90deg, #FFB911 0%, #F14922 51.64%, #FFB911 104.36%); ;
   border: none;
   width: 20px;
   height: 20px;
